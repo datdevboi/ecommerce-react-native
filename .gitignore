@@ -4,3 +4,5 @@ node_modules
 .idea
 .vscode
 *.log
+
+react-native-src/node_modules
